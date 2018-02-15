@@ -1,0 +1,26 @@
+Web Services
+-----------
+methods-@webservices
+
+WSDL-Web Service Description Language link
+xml
+ Functional testing
+SOAP-Simple Object Access Protocol
+ and REST(Represnational State transfer)
+
+
+SOAP UI - ready api
+TCP - connection oriented and UDP- connectionless-pkts-datagrams
+3 way handshake
+HTTP request
+HTTP response
+acknwoledge
+
+
+========
+json(Java Script Object Notation)
+represent an object of our class
+{name:"Sam",
+age:25,
+regno:1099
+}
